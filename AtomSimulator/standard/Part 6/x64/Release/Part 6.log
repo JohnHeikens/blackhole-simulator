@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\gebruiker\Documents\Github\include\include\GlobalFunctions.h(212,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gebruiker\Documents\Github\include\include\GlobalFunctions.h(220,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gebruiker\Documents\Github\include\include\vec3.h(198,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gebruiker\Documents\Github\include\include\vec3.h(198,32): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\gebruiker\Documents\Github\include\include\physics.h(29,10): warning C4244: 'initializing': conversion from 'fp' to 'float', possible loss of data
+C:\Users\gebruiker\Documents\Github\include\include\physics.h(30,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\gebruiker\Documents\Github\include\include\graphics.h(107,1): warning C4102: 'next': unreferenced label
+C:\Users\gebruiker\Documents\Github\include\include\graphics.h(127,26): warning C4244: 'argument': conversion from 'cfp' to 'cbyte', possible loss of data
+C:\Users\gebruiker\Documents\Github\include\include\hsf.h(35,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\AtomSimulator\standard\Part 6\main.cpp(123,78): warning C4244: 'argument': conversion from 'const fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\AtomSimulator\standard\Part 6\main.cpp(123,61): warning C4244: 'argument': conversion from 'const fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\AtomSimulator\standard\Part 6\main.cpp(123,57): warning C4244: 'argument': conversion from 'fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\AtomSimulator\standard\Part 6\main.cpp(123,40): warning C4244: 'argument': conversion from 'fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\AtomSimulator\standard\Part 6\main.cpp(233,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 374 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Part 6.vcxproj -> C:\Users\Gebruiker\Documents\GitHub\AtomSimulator\standard\x64\Release\Project.exe
